@@ -1,4 +1,0 @@
-function funcNew()
-{
-  Hello World!
-}
