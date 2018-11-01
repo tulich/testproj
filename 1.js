@@ -1,4 +1,4 @@
-function funcTest()
+function funcNew()
 {
   Hello World!
 }
